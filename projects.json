@@ -1,0 +1,17 @@
+{
+  "_default": {
+    "1": {
+      "name": "Cool Meltano Project",
+      "description": "This is super cool."
+    },
+    "2": {
+      "name": "Another Cool Meltano Project",
+      "description": "This is also super cool."
+    },
+    "3": {
+      "name": "Uncool Meltano Project",
+      "description": "Just kidding, all Meltano projects are cool."
+    }
+  }
+}
+
